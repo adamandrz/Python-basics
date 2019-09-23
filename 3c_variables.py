@@ -23,3 +23,5 @@ print(string_var)
 print(integer_var)
 print(float_var)
 print(bool_var)
+
+print(string_var + str(integer_var))
