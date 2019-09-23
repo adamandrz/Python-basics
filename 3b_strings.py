@@ -21,3 +21,7 @@ print(phrase.upper().isupper())
 print(len(phrase))
 
 print(phrase[2])
+
+print(phrase.index("S"))
+
+print(phrase.index("i"))
