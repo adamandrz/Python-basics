@@ -10,4 +10,5 @@ def translate_function(value):
             translation = translation + letter_var
     return translation
 
+
 print(translate_function(input("Enter a phrase for translation: ")))
