@@ -9,6 +9,6 @@ def fibb(n):
         print(1)
     else:
         print(fibb(n-1) + fibb(n-2))
-        return fibb(n-1) + fi85bb(n-2)
+        return fibb(n-1) + fibb(n-2)
 
 print(fibb(number))
