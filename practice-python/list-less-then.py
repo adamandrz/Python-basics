@@ -4,8 +4,9 @@ b = []
 number = int(input("Podaj liczbe: "))
 
 
-for i in a:    
+for i in a:
     if i < number:
         b.append( i )
 
+print( a )
 print( b )
